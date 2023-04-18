@@ -2,43 +2,40 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-15T15:27:22 IST" name="Default suite" finished-at="2023-04-15T15:30:37 IST" duration-ms="195410">
+  <suite started-at="2023-04-18T12:39:06 IST" name="Suite" finished-at="2023-04-18T12:39:28 IST" duration-ms="22005">
     <groups>
-      <group name="RegressionSuite">
-        <method signature="OrganizationTest.contactithOrganizationTest()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@25641d39]" name="contactithOrganizationTest" class="com.VtigerOrganization.Tests.OrganizationTest"/>
-      </group> <!-- RegressionSuite -->
     </groups>
-    <test started-at="2023-04-15T15:27:22 IST" name="Default test" finished-at="2023-04-15T15:30:37 IST" duration-ms="195410">
+    <test started-at="2023-04-18T12:39:06 IST" name="Test" finished-at="2023-04-18T12:39:28 IST" duration-ms="22005">
       <class name="com.VtigerOrganization.Tests.OrganizationTest">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@25641d39]" started-at="2023-04-15T15:27:22 IST" name="bsConfig" finished-at="2023-04-15T15:27:22 IST" duration-ms="19" status="PASS">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@791f145a]" started-at="2023-04-18T12:39:06 IST" name="bsConfig" finished-at="2023-04-18T12:39:06 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@25641d39]" started-at="2023-04-15T15:27:23 IST" name="bcConfig" finished-at="2023-04-15T15:28:59 IST" duration-ms="95555" status="PASS">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@791f145a]" started-at="2023-04-18T12:39:06 IST" name="bcConfig" finished-at="2023-04-18T12:39:18 IST" duration-ms="11860" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bcConfig -->
-        <test-method is-config="true" signature="bmconfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@25641d39]" started-at="2023-04-15T15:28:59 IST" name="bmconfig" finished-at="2023-04-15T15:29:11 IST" duration-ms="11955" status="PASS">
+        <test-method is-config="true" signature="bmconfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@791f145a]" started-at="2023-04-18T12:39:18 IST" name="bmconfig" finished-at="2023-04-18T12:39:23 IST" duration-ms="4452" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmconfig -->
-        <test-method signature="contactithOrganizationTest()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@25641d39]" started-at="2023-04-15T15:29:11 IST" name="contactithOrganizationTest" finished-at="2023-04-15T15:30:31 IST" duration-ms="80944" status="PASS">
+        <test-method signature="demo()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@791f145a]" started-at="2023-04-18T12:39:23 IST" name="demo" finished-at="2023-04-18T12:39:23 IST" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- contactithOrganizationTest -->
-        <test-method is-config="true" signature="amconfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@25641d39]" started-at="2023-04-15T15:30:31 IST" name="amconfig" finished-at="2023-04-15T15:30:35 IST" duration-ms="3834" status="PASS">
+        </test-method> <!-- demo -->
+        <test-method is-config="true" signature="amconfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@791f145a]" started-at="2023-04-18T12:39:23 IST" name="amconfig" finished-at="2023-04-18T12:39:27 IST" duration-ms="4173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amconfig -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@25641d39]" started-at="2023-04-15T15:30:35 IST" name="acConfig" finished-at="2023-04-15T15:30:37 IST" duration-ms="1795" status="PASS">
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@791f145a]" started-at="2023-04-18T12:39:27 IST" name="acConfig" finished-at="2023-04-18T12:39:28 IST" duration-ms="726" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@25641d39]" started-at="2023-04-15T15:30:38 IST" name="asConfig" finished-at="2023-04-15T15:30:38 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:com.VtigerOrganization.Tests.OrganizationTest@791f145a]" started-at="2023-04-18T12:39:29 IST" name="asConfig" finished-at="2023-04-18T12:39:29 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- asConfig -->
       </class> <!-- com.VtigerOrganization.Tests.OrganizationTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

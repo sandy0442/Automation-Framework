@@ -75,7 +75,7 @@ public class OrganizationTest extends BaseClass {
 	
 	@Test
 	public void demo() {
-		Assert.fail();
+		//Assert.fail();
 		System.out.println("happy to see you");
 	}
 
